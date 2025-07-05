@@ -2,6 +2,10 @@
 
 Hi this is the code from [this](https://x.com/FarzaTV/status/1928484483076087922) viral demo.
 
+Prompt
+![imagen](https://github.com/user-attachments/assets/a386343a-c693-408b-9d4d-de8815fdbb94)
+
+
 <img width="543" alt="Screenshot 2025-07-02 at 1 31 28 PM" src="https://github.com/user-attachments/assets/8d317156-f187-470c-8e26-5b7f7f60d6f2" />
 
 Please read `ball.json`. That's where the magic is. `ball.py` is mostly just an OpenCV visualizer.
